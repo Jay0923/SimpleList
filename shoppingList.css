@@ -1,0 +1,11 @@
+#titleSection {
+  text-align: center;
+}
+.button {
+  border-radius: 7px;
+  border-style: none;
+  background-color: blue;
+  font-size: 24px;
+  padding: 5px;
+  color: white;
+}
